@@ -5,7 +5,7 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: >
+description: >-
   Knowledge is the common agreement of what is repeatable and transmittable.
 
 
@@ -26,8 +26,8 @@ description: >
 
   Keep repeating and transmitting and repeating and transmitting as infinitum
   (and see what happens)
-datePublished: '2016-03-26T22:52:01.248Z'
-dateModified: '2016-03-26T22:51:42.732Z'
+datePublished: '2016-03-26T22:58:37.479Z'
+dateModified: '2016-03-26T22:52:08.895Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-knowledge-is-the-common-agreement-of-what-is-repeatable-and.md
