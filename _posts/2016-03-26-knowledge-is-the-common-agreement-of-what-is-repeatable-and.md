@@ -26,18 +26,18 @@ description: >
 
   Keep repeating and transmitting and repeating and transmitting as infinitum
   (and see what happens)
-datePublished: '2016-03-26T22:40:38.214Z'
-dateModified: '2016-03-26T22:39:44.207Z'
+datePublished: '2016-03-26T22:50:48.680Z'
+dateModified: '2016-03-26T22:50:13.891Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-26-knowledge-is-the-common-agreement-of-what-is-repeatable-and.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-knowledge-is-the-common-agreement-of-what-is-repeatable-and.md
-published: true
 url: knowledge-is-the-common-agreement-of-what-is-repeatable-and/index.html
 _type: Article
 
@@ -49,3 +49,5 @@ Do this before definitely totally indefatigably saying "no way ever, no no, that
 Use knowledge as the material to do so.
 (Mine, yours, everyones.)
 Keep repeating and transmitting and repeating and transmitting as infinitum (and see what happens)
+
+https://vimeo.com/147472526
