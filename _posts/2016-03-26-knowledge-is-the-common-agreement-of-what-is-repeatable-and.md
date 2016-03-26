@@ -26,8 +26,8 @@ description: >-
 
   Keep repeating and transmitting and repeating and transmitting as infinitum
   (and see what happens)
-datePublished: '2016-03-26T23:01:10.605Z'
-dateModified: '2016-03-26T23:00:49.941Z'
+datePublished: '2016-03-26T23:02:38.302Z'
+dateModified: '2016-03-26T23:02:18.585Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-knowledge-is-the-common-agreement-of-what-is-repeatable-and.md
